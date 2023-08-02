@@ -8,7 +8,6 @@
 *.aux
 *.svg
 *.json
-*.png
 
 .ipynb_checkpoints
 Manifest.toml
