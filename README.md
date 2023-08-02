@@ -1,4 +1,4 @@
-This repository contains illustrative examples for transport-based Bayesian inference. The content was presented at the UQ Workshop hosted at the University of Southern California in August, 2023.
+This repository contains illustrative examples for transport-based Bayesian inference. The content was created by Mathieu Le Provost and Youssef Marzouk (MIT) for the UQ Workshop hosted at the University of Southern California in August, 2023.
 
 We use the library TransportBasedInference.jl (https://github.com/mleprovost/TransportBasedInference.jl) 
 developed in Julia. 
